@@ -2,4 +2,3 @@
 team21のWebページ
 
 https://kkawailab.github.io/team21/
-aaaaaaaaaaaaa
